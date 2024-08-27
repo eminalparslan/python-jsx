@@ -3,6 +3,10 @@ A proof-of-concept for [JSX syntax](https://react.dev/learn/writing-markup-with-
 
 There is *no* build step. Everything is done in a preprocessor stage as long as the proper `coding` is specified.
 
+## Usage
+
+Clone the repo, activate virtualenv, `pip install .`
+
 ## Example
 
 ```python
